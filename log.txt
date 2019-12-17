@@ -1,0 +1,471 @@
+celine dion
+----------------
+Venue: VyStar Veterans Memorial Arena
+Location: Jacksonville, FL, United States
+Date: 01/08/2020
+----------------
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date: 01/11/2020
+----------------
+Venue: Bridgestone Arena
+Location: Nashville, TN, United States
+Date: 01/13/2020
+----------------
+Venue: Amalie Arena
+Location: Tampa, FL, United States
+Date: 01/15/2020
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 01/17/2020
+----------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date: 01/18/2020
+----------------
+Venue: Spectrum Center
+Location: Charlotte, NC, United States
+Date: 01/21/2020
+----------------
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date: 01/30/2020
+----------------
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date: 02/01/2020
+----------------
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date: 02/03/2020
+----------------
+Venue: BOK Center
+Location: Tulsa, OK, United States
+Date: 02/05/2020
+----------------
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date: 02/07/2020
+----------------
+Venue: FedExForum
+Location: Memphis, TN, United States
+Date: 02/09/2020
+----------------
+Venue: PNC Arena
+Location: Raleigh, NC, United States
+Date: 02/11/2020
+----------------
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 02/18/2020
+----------------
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 02/19/2020
+----------------
+Venue: Boardwalk Hall
+Location: Atlantic City, NJ, United States
+Date: 02/22/2020
+----------------
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Baltimore, MD, United States
+Date: 02/24/2020
+----------------
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date: 02/26/2020
+----------------
+Venue: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 02/28/2020
+----------------
+Venue: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 02/29/2020
+----------------
+Venue: The New Coliseum
+Location: Uniondale, NY, United States
+Date: 03/03/2020
+----------------
+Venue: Barclays Center
+Location: Brooklyn, NY, United States
+Date: 03/05/2020
+----------------
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date: 03/07/2020
+----------------
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date: 03/08/2020
+----------------
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date: 03/11/2020
+----------------
+Venue: PPG Paints Arena
+Location: Pittsburgh, PA, United States
+Date: 03/13/2020
+----------------
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date: 03/24/2020
+----------------
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT, United States
+Date: 03/26/2020
+----------------
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date: 03/29/2020
+----------------
+Venue: Pechanga Arena San Diego
+Location: San Diego, CA, United States
+Date: 03/31/2020
+----------------
+Venue: Staples Center
+Location: Los Angeles, CA, United States
+Date: 04/02/2020
+----------------
+Venue: Staples Center
+Location: Los Angeles, CA, United States
+Date: 04/03/2020
+----------------
+Venue: Golden 1 Center
+Location: Sacramento, CA, United States
+Date: 04/07/2020
+----------------
+Venue: Oakland Arena
+Location: Oakland, CA, United States
+Date: 04/09/2020
+----------------
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 04/10/2020
+----------------
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 04/11/2020
+----------------
+Venue: Moda Center
+Location: Portland, OR, United States
+Date: 04/13/2020
+----------------
+Venue: Tacoma Dome
+Location: Tacoma, WA, United States
+Date: 04/15/2020
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 04/17/2020
+----------------
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 04/18/2020
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 04/21/2020
+----------------
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 04/22/2020
+----------------
+Venue: Sasktel Centre
+Location: Saskatoon, Canada
+Date: 04/25/2020
+----------------
+Venue: Bell MTS Place
+Location: Winnipeg, Canada
+Date: 04/27/2020
+----------------
+Venue: O2 Arena
+Location: Prague, Czech Republic
+Date: 05/21/2020
+----------------
+Venue: Atlas Arena
+Location: Łódź, Poland
+Date: 05/23/2020
+----------------
+Venue: Tauron Arena Krakow
+Location: Kraków, Poland
+Date: 05/25/2020
+----------------
+Venue: Sportpaleis
+Location: Merksem, Belgium
+Date: 05/28/2020
+----------------
+Venue: Sportpaleis
+Location: Merksem, Belgium
+Date: 05/30/2020
+----------------
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date: 06/02/2020
+----------------
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date: 06/03/2020
+----------------
+Venue: ARENA ZAGREB
+Location: Zagreb, Croatia
+Date: 06/05/2020
+----------------
+Venue: Papp Laszlo Arena
+Location: Budapest, Hungary
+Date: 06/07/2020
+----------------
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/10/2020
+----------------
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/12/2020
+----------------
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/13/2020
+----------------
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, Austria
+Date: 06/15/2020
+----------------
+Venue: Olympiahalle
+Location: Munich, Germany
+Date: 06/17/2020
+----------------
+Venue: SAP Arena
+Location: Mannheim, Germany
+Date: 06/19/2020
+----------------
+Venue: Lanxess Arena
+Location: Cologne, Germany
+Date: 06/21/2020
+----------------
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, Germany
+Date: 06/22/2020
+----------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/26/2020
+----------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/27/2020
+----------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/30/2020
+----------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 07/01/2020
+----------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 07/03/2020
+----------------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 07/04/2020
+----------------
+Venue: Plaine De L'asse
+Location: Noyon, France
+Date: 07/20/2020
+----------------
+Venue: Waldbühne Berlin
+Location: Berlin, Germany
+Date: 07/22/2020
+----------------
+Venue: Mura di Lucca - Viale Carducci
+Location: Lucca, Italy
+Date: 07/25/2020
+----------------
+Venue: National Stadium Bukarest
+Location: Bucharest, Romania
+Date: 07/29/2020
+----------------
+Venue: Hartwall Arena
+Location: Helsinki, Finland
+Date: 08/24/2020
+----------------
+Venue: Hartwall Arena
+Location: Helsinki, Finland
+Date: 08/25/2020
+----------------
+Venue: Telenor Arena
+Location: Oslo, Norway
+Date: 08/28/2020
+----------------
+Venue: Telenor Arena
+Location: Oslo, Norway
+Date: 08/29/2020
+----------------
+Venue: Royal Arena
+Location: Copenhagen, Denmark
+Date: 08/31/2020
+----------------
+Venue: Royal Arena
+Location: Copenhagen, Denmark
+Date: 09/01/2020
+----------------
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 09/04/2020
+----------------
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 09/05/2020
+----------------
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date: 09/08/2020
+----------------
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date: 09/09/2020
+----------------
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Date: 09/11/2020
+----------------
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Date: 09/12/2020
+----------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 09/14/2020
+----------------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 09/15/2020
+----------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 09/17/2020
+----------------
+Venue: The O2
+Location: London, United Kingdom
+Date: 09/18/2020
+----------------
+thriller
+----------------
+thriller
+----------------
+Artist: Michael Jackson
+Song Name: Billie Jean
+Preview of Song: https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+Artist: Michael Jackson
+Song Name: Thriller
+Preview of Song: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Scream
+----------------
+Artist: Michael Jackson
+Song Name: Beat It - Single Version
+Preview of Song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+Artist: Michael Jackson
+Song Name: P.Y.T. (Pretty Young Thing)
+Preview of Song: https://p.scdn.co/mp3-preview/575230ca230ab7a79f1b2980e303d7f1612073f3?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+Artist: Michael Jackson
+Song Name: Thriller
+Preview of Song: https://p.scdn.co/mp3-preview/dd0621b7f11364a37c96031dbedbca6b88dbfa7d?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+Artist: Michael Jackson
+Song Name: Thriller
+Preview of Song: https://p.scdn.co/mp3-preview/0b62db54da539b34856448e509c30ce4601931f5?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Michael Jackson's This Is It
+----------------
+Artist: Michael Jackson
+Song Name: Thriller
+Preview of Song: https://p.scdn.co/mp3-preview/e87c95de42eecbed85b08021e3125833ed31ae98?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: Thriller - Single Version
+Preview of Song: https://p.scdn.co/mp3-preview/41d3639dcb9fa25f07fb849730718a62538c6237?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: The Essential Michael Jackson
+----------------
+Artist: Michael Jackson
+Song Name: P.Y.T. (Pretty Young Thing)
+Preview of Song: https://p.scdn.co/mp3-preview/4b919442d00292086ab30277534cb6f64564c160?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: Human Nature
+Preview of Song: https://p.scdn.co/mp3-preview/a02a6ddf6152b09f9b9dd456a2edf484b0377f7c?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+Artist: Fall Out Boy
+Song Name: Thriller
+Preview of Song: null
+Album Name: Infinity On High
+----------------
+Artist: Ice Nine Kills
+Song Name: Thriller
+Preview of Song: null
+Album Name: The Silver Scream (FINAL CUT)
+----------------
+Artist: Michael Jackson
+Song Name: Wanna Be Startin' Somethin'
+Preview of Song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+Artist: Michael Jackson
+Song Name: Thriller - 2003 Edit
+Preview of Song: https://p.scdn.co/mp3-preview/ff3fdb30e2997ac3959016392e0f9418dee79780?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Number Ones
+----------------
+Artist: Michael Jackson
+Song Name: The Lady in My Life
+Preview of Song: https://p.scdn.co/mp3-preview/6d1d47e76fef766db4b73955d4b20f4d9124e8f6?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: Billie Jean
+Preview of Song: https://p.scdn.co/mp3-preview/fdfa0fe346a16b6aeb8136e6d2b7e11cacc6a06d?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: Human Nature
+Preview of Song: https://p.scdn.co/mp3-preview/d13c6034c6c9eddab4ef188a2da87201b71767aa?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: Baby Be Mine
+Preview of Song: https://p.scdn.co/mp3-preview/8111b373a3a9cd14542865eb63d2396bca8ff72f?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: Beat It - Single Version
+Preview of Song: https://p.scdn.co/mp3-preview/1c1b574766d6cacb669cd3e9b9309b9f5ed2b6e3?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller
+----------------
+Artist: Michael Jackson
+Song Name: The Girl Is Mine (with Paul McCartney)
+Preview of Song: https://p.scdn.co/mp3-preview/716bce19276b193e2e937ce4da41855db007d971?cid=4793a86f32d848f19e071fe59dd0dc1a
+Album Name: Thriller 25 Super Deluxe Edition
+----------------
+topgun
+----------------
+top gun
+----------------
+Title: Top Gun
+Release Year: 1986
+IMDB Rating: 6.9/10
+Rating: 55%
+Country: USA
+Language: English
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+----------------
