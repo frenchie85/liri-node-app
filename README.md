@@ -50,7 +50,8 @@ Step Four: On the next screen, scroll down to where you see your client id and c
 
 If no song is provided then your program will default to "The Sign" by Ace of Base
 
-![spotify-this song](img/slide2.png)
+![](img/Slide1.PNG)
+
 ### Movies ###
 node liri.js movie-this <insert movie title>
 
