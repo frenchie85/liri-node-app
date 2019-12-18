@@ -20,7 +20,7 @@ Venue location
 
 Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-![Concert-this example](img/slide1.png)
+![](img/Slide1.PNG)
 
 ### Spotify ####
 node liri.js spotify-this-song <insert song title>
@@ -50,7 +50,7 @@ Step Four: On the next screen, scroll down to where you see your client id and c
 
 If no song is provided then your program will default to "The Sign" by Ace of Base
 
-![](img/Slide1.PNG)
+![](img/Slide2.PNG)
 
 ### Movies ###
 node liri.js movie-this <insert movie title>
@@ -70,7 +70,7 @@ If the user doesn't type a movie in, the program will output data for the movie 
 
 You'll use the axios package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use trilogy.
 
-![Movie-this example](img/slide3.png)
+![](img/Slide3.PNG)
 
 ### Do What It Says ###
 node liri.js do-what-it-says
