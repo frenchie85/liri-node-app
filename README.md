@@ -1,5 +1,5 @@
 # liri-node-app #
-
+[Link to the deployed version] (https://github.com/frenchie85/liri-node-app)
 ## About ##
 LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. (Siri knock-off)
 
@@ -80,6 +80,14 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
 
 Edit the text in random.txt to test out the feature for movie-this and concert-this.
+
+## Technologies used ##
+Spotify API
+OMDB API
+Bands In Town API
+Node.js
+Javascript
+NPM packages
 
 ## Authors ##
 Sylvain David
