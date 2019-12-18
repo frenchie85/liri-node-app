@@ -1,5 +1,5 @@
 # liri-node-app #
-[Link to the deployed version] (https://github.com/frenchie85/liri-node-app)
+
 ## About ##
 LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. (Siri knock-off)
 
@@ -7,7 +7,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ## Demo ##
-Liri Demo
+Liri Demo (https://github.com/frenchie85/liri-node-app)
 
 ### Bands in Town ###
 node liri.js concert-this <insert Twitter handle>
